@@ -1,2 +1,2 @@
-# image-classifcation-cnn
-> In this project CNN models with different configurations are implemented and evaluated. This repository contains code and report prepared as part of Bsc. CSIT 7th semester project work.
+# Image classifcation using cnn
+> In this project CNN models with different configurations are implemented and evaluated. This repository contains code and report prepared as part of Bsc. CSIT 7th semester project work. Please read the project report for detailed information.
